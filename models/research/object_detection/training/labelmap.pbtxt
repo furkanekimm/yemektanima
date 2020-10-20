@@ -1,0 +1,198 @@
+item {
+  id: 1
+  name: 'acilimeze'
+}
+ 
+item {
+  id: 2
+  name: 'cacik'
+}
+ 
+item {
+  id: 3
+  name: 'cigkofte'
+}
+ 
+item {
+  id: 4
+  name: 'cobansalata'
+}
+ 
+item {
+  id: 5
+  name: 'haydari'
+}
+ 
+item {
+  id: 6
+  name: 'salata'
+}
+item {
+  id: 7
+  name: 'tursu'
+}
+ 
+item {
+  id: 8
+  name: 'bulgur'
+}
+ 
+item {
+  id: 9
+  name: 'nohutlupilav'
+}
+ 
+item {
+  id: 10
+  name: 'pilav'
+}
+ 
+item {
+  id: 11
+  name: 'beyazpasta'
+}
+ 
+item {
+  id: 12
+  name: 'cileklipasta'
+}
+item {
+  id: 13
+  name: 'ekmekkadayifi'
+}
+ 
+item {
+  id: 14
+  name: 'fistiklipasta'
+}
+ 
+item {
+  id: 15
+  name: 'frambuazlipasta'
+}
+ 
+item {
+  id: 16
+  name: 'kemalpasa'
+}
+ 
+item {
+  id: 17
+  name: 'muzlupasta'
+}
+ 
+item {
+  id: 18
+  name: 'sutlac'
+}
+item {
+  id: 19
+  name: 'tiramisu'
+}
+ 
+item {
+  id: 20
+  name: 'bezelyelitavuk'
+}
+ 
+item {
+  id: 21
+  name: 'arnavutcigeri'
+}
+ 
+item {
+  id: 22
+  name: 'etsote'
+}
+ 
+item {
+  id: 23
+  name: 'kurufasulye'
+}
+ 
+item {
+  id: 24
+  name: 'sulunohut'
+}
+item {
+  id: 25
+  name: 'tazefasulye'
+}
+ 
+item {
+  id: 26
+  name: 'karnibahar'
+}
+ 
+item {
+  id: 27
+  name: 'ispanak'
+}
+ 
+item {
+  id: 28
+  name: 'domatescorba'
+}
+ 
+item {
+  id: 29
+  name: 'ezogelin'
+}
+ 
+item {
+  id: 30
+  name: 'mercimek'
+}
+item {
+  id: 31
+  name: 'tavukcorba'
+}
+ 
+item {
+  id: 32
+  name: 'brokolicorba'
+}
+ 
+item {
+  id: 33
+  name: 'firinmakarna'
+}
+ 
+item {
+  id: 34
+  name: 'manti'
+}
+ 
+item {
+  id: 35
+  name: 'kutufanta'
+}
+ 
+item {
+  id: 36
+  name: 'kutukola'
+}
+item {
+  id: 37
+  name: 'camkola'
+}
+ 
+item {
+  id: 38
+  name: 'camfanta'
+}
+ 
+item {
+  id: 39
+  name: 'ayran'
+}
+ 
+item {
+  id: 40
+  name: 'yogurt'
+}
+ 
+item {
+  id: 41
+  name: 'kucuksu'
+}

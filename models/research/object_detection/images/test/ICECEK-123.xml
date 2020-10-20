@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>ICECEK-123.JPG</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\ICECEK-123.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kutukola</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>20</ymin>
+			<xmax>271</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

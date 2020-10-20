@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>MAKARNA-62.JPG</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\MAKARNA-62.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>manti</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>37</ymin>
+			<xmax>421</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

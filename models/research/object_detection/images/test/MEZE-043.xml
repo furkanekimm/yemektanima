@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>MEZE-043.JPG</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\MEZE-043.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cobansalata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>89</ymin>
+			<xmax>359</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

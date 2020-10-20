@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>TATLI-666.JPG</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\TATLI-666.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beyazpasta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>46</ymin>
+			<xmax>374</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

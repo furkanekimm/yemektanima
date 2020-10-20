@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>TATLI-681.JPG</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\TATLI-681.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cileklipasta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>78</ymin>
+			<xmax>397</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

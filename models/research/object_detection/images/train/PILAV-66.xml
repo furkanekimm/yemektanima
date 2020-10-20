@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>PILAV-66.JPG</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\PILAV-66.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nohutlupilav</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>50</ymin>
+			<xmax>416</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

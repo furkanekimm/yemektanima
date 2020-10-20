@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>SICAK-478.JPG</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\SICAK-478.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>karnibahar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>44</ymin>
+			<xmax>409</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>

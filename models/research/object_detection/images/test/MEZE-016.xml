@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>MEZE-016.JPG</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\MEZE-016.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>haydari</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>101</ymin>
+			<xmax>376</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>
